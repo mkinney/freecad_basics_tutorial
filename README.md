@@ -8,7 +8,6 @@ Chapter 2: Part modeling basics: How to use "pad", "fillet", and "thickness".
 ![Chapter 2 - first](https://github.com/mkinney/freecad_basics_tutorial/blob/main/chapter2_tutorial1.png)
 
 # Comments
-- "pad" is Freecad's version of Fusion 360's "extrude"
 - If you want to create a sketch, select the face, then click on "Create sketch" from within the Tasks tab. Do not click on the "Create Sketch" from the menu bar.
 
 # Mapping Freecad to Fusion 360
